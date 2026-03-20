@@ -1,2 +1,3 @@
-# ultra-smart-home-2w7o
-Automated issue comment bot repository
+# Ultra Smart Home 2W7O
+
+Automated issue comment bot repository.
